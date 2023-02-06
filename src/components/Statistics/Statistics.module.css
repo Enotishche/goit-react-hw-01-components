@@ -24,7 +24,6 @@
 
     display: flex;
     justify-content: space-around;
-    /* align-items: flex-start; */
     list-style: none;
     padding-inline-start: 0px;
     background-color: rgb(174, 222, 245);
